@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Entities\bin\Debug\CodeProject.Business.Entities.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Entities\bin\Debug\CodeProject.Business.Entities.pdb
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Entities\obj\Debug\MVCAngular.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Entities\obj\Debug\CodeProject.Business.Entities.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Entities\obj\Debug\CodeProject.Business.Entities.pdb

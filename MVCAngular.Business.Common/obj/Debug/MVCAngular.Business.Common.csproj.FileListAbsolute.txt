@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\bin\Debug\CodeProject.Business.Common.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\bin\Debug\CodeProject.Business.Common.pdb
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\bin\Debug\CodeProject.Business.Entities.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\bin\Debug\FluentValidation.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\bin\Debug\CodeProject.Business.Entities.pdb
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\bin\Debug\FluentValidation.xml
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\obj\Debug\MVCAngular.Business.Common.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\obj\Debug\MVCAngular.Business.Common.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\obj\Debug\MVCAngular.Business.Common.csproj.CopyComplete
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\obj\Debug\CodeProject.Business.Common.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Business.Common\obj\Debug\CodeProject.Business.Common.pdb

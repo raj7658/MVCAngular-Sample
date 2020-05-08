@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\bin\Debug\CodeProject.Interfaces.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\bin\Debug\CodeProject.Interfaces.pdb
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\bin\Debug\CodeProject.Business.Entities.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\bin\Debug\CodeProject.Business.Entities.pdb
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\obj\Debug\MVCAngular.Interfaces.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\obj\Debug\MVCAngular.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\obj\Debug\MVCAngular.Interfaces.csproj.CopyComplete
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\obj\Debug\CodeProject.Interfaces.dll
+C:\Users\Asus\Desktop\MVC\MVCAngular.Interfaces\obj\Debug\CodeProject.Interfaces.pdb
